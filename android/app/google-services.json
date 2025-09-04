@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405687256118",
+    "project_id": "sk-app-e3c9c",
+    "storage_bucket": "sk-app-e3c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405687256118:android:9039f71276bf997cd9c497",
+        "android_client_info": {
+          "package_name": "com.sk.traveller.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRD8YoWqzzHAUA-z7ZsCPCMfi5Rl26PO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
